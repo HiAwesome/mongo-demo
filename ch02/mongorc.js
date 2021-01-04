@@ -13,3 +13,18 @@ const compliment = ["attractive", "intelligent", "like Batman"];
 const index = Math.floor(Math.random() * 3);
 
 print("Hello, you're looking particularly " + compliment[index] + " today!")
+
+// .mongorc.js 最常见的用途之一是移除那些比较"危险"的 shell 辅助函数
+// 以下内容并未配置在本机 .mongorc.js 中，仅用作举例
+var no = function () {
+    print("Not on my watch.")
+}
+
+// 禁止删除数据库
+db.dropDatabase = DB.prototype.dropDatabase = no;
+
+// 禁止删除集合
+DBCollection.prototype.drop = no;
+
+// 禁止删除索引
+DBCollection.prototype.dropIndex = no;
