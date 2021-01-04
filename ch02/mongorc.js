@@ -14,6 +14,10 @@ const index = Math.floor(Math.random() * 3);
 
 print("Hello, you're looking particularly " + compliment[index] + " today!")
 
+// 编辑复合常量，使用 edit VAR 时进入编辑器模式
+// 本机设定为 Sublime Text
+EDITOR="/Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl --new-window --wait"
+
 // .mongorc.js 最常见的用途之一是移除那些比较"危险"的 shell 辅助函数
 // 以下内容并未配置在本机 .mongorc.js 中，仅用作举例
 var no = function () {
