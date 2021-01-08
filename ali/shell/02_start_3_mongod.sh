@@ -8,3 +8,6 @@ mongod --replSet rs --dbpath ./../mongoRs/rs2 --port 27019 --fork --logpath ./..
 
 mongod --replSet rs --dbpath ./../mongoRs/rs3 --port 27020 --fork --logpath ./../mongoRs/rs3/mongod.log
 echo "start 3 mongod success"
+
+# 连接方式
+# mongo --port 27018
