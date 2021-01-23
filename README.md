@@ -2,8 +2,8 @@
 
 ## 英文良好请直接读《MongoDB 权威指南（第三版）》（基于 4.2）
 
-[introduction](https://www.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)
-[pdf](book/mongodb-the-definitive-guide-powerful-and-scalable-data-storage-3rd-edition.pdf)
+* [introduction](https://www.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)
+* [PDF](book/mongodb-the-definitive-guide-powerful-and-scalable-data-storage-3rd-edition.pdf)
 
 ## [玩转 MongoDB 从入门到实战（目前基于 4.4.2）](https://developer.aliyun.com/topic/download?spm=a2c6h.12873639.0.0.52a143148kQF8K&id=1060)
 
