@@ -1,5 +1,10 @@
 # MongoDB 学习
 
+## 英文良好请直接读《MongoDB 权威指南（第三版）》（基于 4.2）
+
+[introduction](https://www.oreilly.com/library/view/mongodb-the-definitive/9781491954454/)
+[pdf](book/mongodb-the-definitive-guide-powerful-and-scalable-data-storage-3rd-edition.pdf)
+
 ## [玩转 MongoDB 从入门到实战（目前基于 4.4.2）](https://developer.aliyun.com/topic/download?spm=a2c6h.12873639.0.0.52a143148kQF8K&id=1060)
 
 [玩转 MongoDB 从入门到实战 PDF](book/MongoDB%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%E7%AC%AC2%E7%89%88.pdf)
